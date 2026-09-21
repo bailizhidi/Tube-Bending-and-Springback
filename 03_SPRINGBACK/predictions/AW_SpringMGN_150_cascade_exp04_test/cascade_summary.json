@@ -1,0 +1,32 @@
+{
+  "graphs": 540,
+  "test_sample_ids": [
+    0,
+    10,
+    16,
+    20,
+    27,
+    40,
+    41,
+    50,
+    69,
+    71,
+    79,
+    81,
+    84,
+    114,
+    119
+  ],
+  "bending_input_mean_node_mae_mm": 0.02577160345490752,
+  "bending_input_mean_graph_p95_mm": 0.06515426306642821,
+  "bending_input_worst_node_mm": 0.9286455943963119,
+  "cascade_final_mean_node_mae_mm": 0.05986552265262621,
+  "cascade_final_mean_graph_p95_mm": 0.16835609547470717,
+  "cascade_final_worst_node_mm": 1.1283697104625359,
+  "springback_increment_model_mean_node_mae_mm": 0.04624894741881227,
+  "springback_increment_model_mean_graph_p95_mm": 0.16027210278778847,
+  "springback_increment_model_worst_node_mm": 1.12837057210348,
+  "max_true_Xbend_cross_dataset_mismatch_mm": 3.053270836614346e-05,
+  "bending_checkpoint_source": "/data/run01/scxk573/lsz/ysy/physicsnemo/examples/structural_mechanics/FINAL_BENDING_EXPERIMENTS/rollout/exp04_mgnt_h128_x10_local_anaresid_2step/test_pred_npz",
+  "springback_checkpoint": "/data/run01/scxk573/lsz/ysy/physicsnemo/examples/structural_mechanics/MGN_springback_onestep_150_singlemat/runs/AW_SpringMGN_150/best_model.pt"
+}

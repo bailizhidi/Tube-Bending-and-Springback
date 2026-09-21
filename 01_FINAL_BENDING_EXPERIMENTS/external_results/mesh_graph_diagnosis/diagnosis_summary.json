@@ -1,0 +1,64 @@
+{
+  "format": "ANARESID_mesh_graph_diagnosis_v1",
+  "frames": [
+    0,
+    45,
+    90,
+    135,
+    179
+  ],
+  "world_radius_mm": 2.0,
+  "normalization_source": "frozen Train120 only",
+  "aggregate_by_mesh_size": [
+    {
+      "mesh_size_mm": 0.8,
+      "num_cases": 5,
+      "nodes_mean": 65445.6,
+      "mesh_edges_per_node_mean": 2.420397724038575,
+      "mesh_degree_tube_mean": 7.978985214233399,
+      "mesh_len_mm_mean": 0.9598797082901,
+      "mesh_zlen_abs_p95_mean": 1.9857302904129028,
+      "mesh_outside_train_range_frac_mean": 0.500439178943634,
+      "world_edges_per_node_mean": 15.766794500872962,
+      "world_degree_tube_mean": 31.968111877441405,
+      "world_len_mm_mean": 1.4940340948104858,
+      "world_zlen_abs_p95_mean": 3.681570806503296,
+      "world_outside_train_range_frac_mean": 0.8911011624336242
+    },
+    {
+      "mesh_size_mm": 1.0,
+      "num_cases": 5,
+      "nodes_mean": 42130.4,
+      "mesh_edges_per_node_mean": 2.3735358485716134,
+      "mesh_degree_tube_mean": 7.97344741821289,
+      "mesh_len_mm_mean": 1.2079988718032837,
+      "mesh_zlen_abs_p95_mean": 1.0568459510803223,
+      "mesh_outside_train_range_frac_mean": 0.0,
+      "world_edges_per_node_mean": 8.29771670934653,
+      "world_degree_tube_mean": 15.088235321044921,
+      "world_len_mm_mean": 1.461718430519104,
+      "world_zlen_abs_p95_mean": 3.7758516120910643,
+      "world_outside_train_range_frac_mean": 0.8405982065200805
+    },
+    {
+      "mesh_size_mm": 1.25,
+      "num_cases": 5,
+      "nodes_mean": 27029.8,
+      "mesh_edges_per_node_mean": 2.345485499825812,
+      "mesh_degree_tube_mean": 7.966886806488037,
+      "mesh_len_mm_mean": 1.5130628108978272,
+      "mesh_zlen_abs_p95_mean": 2.737540626525879,
+      "mesh_outside_train_range_frac_mean": 0.941470456123352,
+      "world_edges_per_node_mean": 4.971240226703847,
+      "world_degree_tube_mean": 8.460875377655029,
+      "world_len_mm_mean": 1.4172288656234742,
+      "world_zlen_abs_p95_mean": 3.8218335056304933,
+      "world_outside_train_range_frac_mean": 0.8718949389457703
+    }
+  ],
+  "interpretation_rules": {
+    "world_degree_shift": "If 0.8/1.25 world_degree_tube_mean differs strongly from 1.0, fixed-radius neighborhood density is mesh-sensitive.",
+    "mesh_edge_scale_shift": "If mesh_len_mm or normalized z-length changes strongly, mesh-edge scale is out of the training distribution.",
+    "normalization_shift": "High outside_train_range_frac or |z| indicates edge normalization OOD."
+  }
+}

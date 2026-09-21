@@ -1,0 +1,28 @@
+{
+  "rank": 16,
+  "width": 128,
+  "depth": 3,
+  "feature_names": [
+    "D_outer_z",
+    "t_over_D_z",
+    "R_over_D_z",
+    "tau",
+    "tau2",
+    "tau3",
+    "sin_pi_tau",
+    "cos_pi_tau",
+    "sin_2pi_tau",
+    "cos_2pi_tau"
+  ],
+  "n_inputs": 10,
+  "y_scale": 6950.279296875,
+  "seed": 0,
+  "best_epoch": 503,
+  "best_val_scaled_mse": 7.973252991178015e-08,
+  "batch_size": 512,
+  "lr": 0.001,
+  "weight_decay": 0.0,
+  "dataset": "artifacts/pod_coeff_direct_rank32.npz",
+  "representation": "direct",
+  "coefficient_output_space": "normalized_by_global_train_max"
+}

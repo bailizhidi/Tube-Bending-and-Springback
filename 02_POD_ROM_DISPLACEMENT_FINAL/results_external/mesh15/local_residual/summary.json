@@ -1,0 +1,126 @@
+{
+  "suite": "mesh15",
+  "representation": "local_residual",
+  "rank": 16,
+  "normalization_source": "frozen Train120 only",
+  "metrics_contract": "free tube nodes; frames 1..180; case-balanced",
+  "roundtrip": {
+    "mean_free_mm": 0.0039662697818130255,
+    "final_free_mm": 0.006234026700258255,
+    "mean_case_p95_mm": 0.014811912613610426,
+    "mean_case_p99_mm": 0.03474468998610973,
+    "worst_max_free_mm": 0.19149485230445862,
+    "mean_case_rel_l2_pct": 0.010528781947619152,
+    "worst_case": "trajectory_bend_Base_TC4_sample_0179.npz"
+  },
+  "pod_oracle": {
+    "mean_free_mm": 0.02085035927593708,
+    "final_free_mm": 0.03782841401795546,
+    "mean_case_p95_mm": 0.060473168392976125,
+    "mean_case_p99_mm": 0.10401936719814936,
+    "worst_max_free_mm": 0.39158910512924194,
+    "mean_case_rel_l2_pct": 0.039484586467058866,
+    "worst_case": "trajectory_bend_Base_TC4_sample_0178.npz"
+  },
+  "rom": {
+    "mean_free_mm": 0.03517543449997902,
+    "final_free_mm": 0.06131677230199178,
+    "mean_case_p95_mm": 0.08953113456567129,
+    "mean_case_p99_mm": 0.12906438062588374,
+    "worst_max_free_mm": 0.35232698917388916,
+    "mean_case_rel_l2_pct": 0.05769642434285694,
+    "worst_case": "trajectory_bend_Base_TC4_sample_0128.npz"
+  },
+  "paired_vs_1mm": [
+    {
+      "source_sample_id": 4,
+      "mesh_size_mm": 0.8,
+      "delta_mean_free_mm": 0.02567834034562111,
+      "ratio_mean_free": 1.9356802837809808,
+      "delta_final_free_mm": 0.03140729293227196,
+      "ratio_final_free": 1.7339949374141634,
+      "delta_max_free_mm": 0.038224101066589355
+    },
+    {
+      "source_sample_id": 4,
+      "mesh_size_mm": 1.25,
+      "delta_mean_free_mm": 0.002089262008666992,
+      "ratio_mean_free": 1.076129580138372,
+      "delta_final_free_mm": 0.01256437599658966,
+      "ratio_final_free": 1.293632067977077,
+      "delta_max_free_mm": 0.04576106369495392
+    },
+    {
+      "source_sample_id": 3,
+      "mesh_size_mm": 0.8,
+      "delta_mean_free_mm": 0.006669117137789726,
+      "ratio_mean_free": 1.218787230731129,
+      "delta_final_free_mm": -0.010427117347717285,
+      "ratio_final_free": 0.8163473367815406,
+      "delta_max_free_mm": -0.0019167661666870117
+    },
+    {
+      "source_sample_id": 3,
+      "mesh_size_mm": 1.25,
+      "delta_mean_free_mm": 0.0015263017266988754,
+      "ratio_mean_free": 1.0500718942470486,
+      "delta_final_free_mm": -0.012688890099525452,
+      "ratio_final_free": 0.7765107668444573,
+      "delta_max_free_mm": 0.005277886986732483
+    },
+    {
+      "source_sample_id": 139,
+      "mesh_size_mm": 0.8,
+      "delta_mean_free_mm": 0.003891531378030777,
+      "ratio_mean_free": 1.1337138484602411,
+      "delta_final_free_mm": 0.01211417093873024,
+      "ratio_final_free": 1.277508815643916,
+      "delta_max_free_mm": -0.003806203603744507
+    },
+    {
+      "source_sample_id": 139,
+      "mesh_size_mm": 1.25,
+      "delta_mean_free_mm": -0.002529418095946312,
+      "ratio_mean_free": 0.9130886545375603,
+      "delta_final_free_mm": -0.002209797501564026,
+      "ratio_final_free": 0.9493784353404382,
+      "delta_max_free_mm": 0.00566430389881134
+    },
+    {
+      "source_sample_id": 15,
+      "mesh_size_mm": 0.8,
+      "delta_mean_free_mm": 0.0029664188623428345,
+      "ratio_mean_free": 1.0973931089799844,
+      "delta_final_free_mm": 0.022978797554969788,
+      "ratio_final_free": 1.408517865359902,
+      "delta_max_free_mm": -0.01623682677745819
+    },
+    {
+      "source_sample_id": 15,
+      "mesh_size_mm": 1.25,
+      "delta_mean_free_mm": 0.010294884443283081,
+      "ratio_mean_free": 1.3380004136466204,
+      "delta_final_free_mm": 0.013038933277130127,
+      "ratio_final_free": 1.2318066111249308,
+      "delta_max_free_mm": -0.01301005482673645
+    },
+    {
+      "source_sample_id": 128,
+      "mesh_size_mm": 0.8,
+      "delta_mean_free_mm": 0.008295807987451553,
+      "ratio_mean_free": 1.240686523628121,
+      "delta_final_free_mm": 0.05485839396715164,
+      "ratio_final_free": 1.9556464236115618,
+      "delta_max_free_mm": -0.0077647864818573
+    },
+    {
+      "source_sample_id": 128,
+      "mesh_size_mm": 1.25,
+      "delta_mean_free_mm": 0.012885458767414093,
+      "ratio_mean_free": 1.3738461980766168,
+      "delta_final_free_mm": 0.027497105300426483,
+      "ratio_final_free": 1.4790061910262566,
+      "delta_max_free_mm": -0.005312174558639526
+    }
+  ]
+}

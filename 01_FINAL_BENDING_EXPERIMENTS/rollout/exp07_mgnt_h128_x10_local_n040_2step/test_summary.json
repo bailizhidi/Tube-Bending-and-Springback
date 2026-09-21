@@ -1,0 +1,19 @@
+{
+  "checkpoint": "/data/run01/scxk573/lsz/ysy/physicsnemo/examples/structural_mechanics/FINAL_BENDING_EXPERIMENTS/checkpoints/exp07_mgnt_h128_x10_local_n040_2step/best_val_rollout.pt",
+  "checkpoint_epoch": 150,
+  "experiment_id": "exp07_mgnt_h128_x10_local_n040_2step",
+  "prediction_mode": "local_residual",
+  "feature_mode": "x10",
+  "processor_type": "mgn_t",
+  "rollout": {
+    "split": "test",
+    "num_samples": 15,
+    "mean_free_mm": 0.04725933559238911,
+    "final_free_mean_mm": 0.09924730733036995,
+    "mean_p95_free_mm": 0.12522512823343276,
+    "max_free_mm": 1.969969391822815,
+    "worst_sample_id": 119,
+    "worst_sample_mean_free_mm": 0.0999312698841095,
+    "nan_count": 0
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "representation": "global_residual",
+  "split": "val",
+  "rank": 16,
+  "metrics_contract": "free tube nodes; frames 1..180; case-balanced",
+  "methods": {
+    "roundtrip": {
+      "mean_free_mm": 0.003984920540824532,
+      "final_free_mm": 0.00642036742841204,
+      "mean_case_p95_mm": 0.01581076023479303,
+      "mean_case_p99_mm": 0.03366461967428525,
+      "worst_max_free_mm": 0.1644759178161621,
+      "mean_case_rel_l2_pct": 0.013936297172168748,
+      "worst_case": "trajectory_bend_Base_TC4_sample_0092.npz"
+    },
+    "pod_oracle": {
+      "mean_free_mm": 0.024836752439538638,
+      "final_free_mm": 0.045633915811777115,
+      "mean_case_p95_mm": 0.0752555251121521,
+      "mean_case_p99_mm": 0.1257774477203687,
+      "worst_max_free_mm": 0.3967148959636688,
+      "mean_case_rel_l2_pct": 0.06396146072087067,
+      "worst_case": "trajectory_bend_Base_TC4_sample_0149.npz"
+    },
+    "rom": {
+      "mean_free_mm": 0.0393209973971049,
+      "final_free_mm": 0.06371803184350332,
+      "mean_case_p95_mm": 0.09612862964471182,
+      "mean_case_p99_mm": 0.14507286896308264,
+      "worst_max_free_mm": 0.4205544590950012,
+      "mean_case_rel_l2_pct": 0.09046061383720644,
+      "worst_case": "trajectory_bend_Base_TC4_sample_0036.npz"
+    }
+  }
+}

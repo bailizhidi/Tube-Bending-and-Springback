@@ -1,0 +1,19 @@
+{
+  "checkpoint": "/data/run01/scxk573/lsz/ysy/physicsnemo/examples/structural_mechanics/FINAL_BENDING_EXPERIMENTS/checkpoints/exp01_mgn_h80_x10_direct_2step/best_val_rollout.pt",
+  "checkpoint_epoch": 55,
+  "experiment_id": "exp01_mgn_h80_x10_direct_2step",
+  "prediction_mode": "direct",
+  "feature_mode": "x10",
+  "processor_type": "mgn",
+  "rollout": {
+    "split": "test",
+    "num_samples": 15,
+    "mean_free_mm": 0.4725336660941442,
+    "final_free_mean_mm": 1.054009167353312,
+    "mean_p95_free_mm": 1.2453445514043173,
+    "max_free_mm": 8.193172454833984,
+    "worst_sample_id": 16,
+    "worst_sample_mean_free_mm": 1.7633910179138184,
+    "nan_count": 0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "num_files": 5400,
+  "num_samples": 150,
+  "usable": 5400,
+  "bad": {},
+  "coverage_bad": {},
+  "contract_ok": true
+}

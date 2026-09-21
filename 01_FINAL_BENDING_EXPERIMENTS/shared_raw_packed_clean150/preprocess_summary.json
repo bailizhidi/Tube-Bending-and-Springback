@@ -1,0 +1,1502 @@
+[
+  {
+    "sample_id": 1,
+    "split": "train",
+    "nodes": 77376,
+    "mesh_edges": 187030,
+    "world_edge_min": 465470,
+    "world_edge_max": 681722,
+    "file_size_mb": 975.4767370223999,
+    "status": "OK"
+  },
+  {
+    "sample_id": 2,
+    "split": "train",
+    "nodes": 73303,
+    "mesh_edges": 178680,
+    "world_edge_min": 468152,
+    "world_edge_max": 751032,
+    "file_size_mb": 985.2578039169312,
+    "status": "OK"
+  },
+  {
+    "sample_id": 3,
+    "split": "train",
+    "nodes": 34023,
+    "mesh_edges": 81396,
+    "world_edge_min": 217932,
+    "world_edge_max": 308870,
+    "file_size_mb": 441.8055944442749,
+    "status": "OK"
+  },
+  {
+    "sample_id": 4,
+    "split": "train",
+    "nodes": 9317,
+    "mesh_edges": 20538,
+    "world_edge_min": 66476,
+    "world_edge_max": 83932,
+    "file_size_mb": 124.7864294052124,
+    "status": "OK"
+  },
+  {
+    "sample_id": 5,
+    "split": "train",
+    "nodes": 44178,
+    "mesh_edges": 107370,
+    "world_edge_min": 301764,
+    "world_edge_max": 481690,
+    "file_size_mb": 641.9720983505249,
+    "status": "OK"
+  },
+  {
+    "sample_id": 6,
+    "split": "train",
+    "nodes": 31659,
+    "mesh_edges": 74252,
+    "world_edge_min": 193566,
+    "world_edge_max": 290368,
+    "file_size_mb": 410.2177038192749,
+    "status": "OK"
+  },
+  {
+    "sample_id": 7,
+    "split": "train",
+    "nodes": 47453,
+    "mesh_edges": 115296,
+    "world_edge_min": 320224,
+    "world_edge_max": 489454,
+    "file_size_mb": 667.6214513778687,
+    "status": "OK"
+  },
+  {
+    "sample_id": 8,
+    "split": "train",
+    "nodes": 56567,
+    "mesh_edges": 135756,
+    "world_edge_min": 364644,
+    "world_edge_max": 536160,
+    "file_size_mb": 753.6816320419312,
+    "status": "OK"
+  },
+  {
+    "sample_id": 9,
+    "split": "train",
+    "nodes": 75547,
+    "mesh_edges": 187026,
+    "world_edge_min": 488352,
+    "world_edge_max": 746346,
+    "file_size_mb": 1029.7485265731812,
+    "status": "OK"
+  },
+  {
+    "sample_id": 11,
+    "split": "train",
+    "nodes": 18150,
+    "mesh_edges": 42048,
+    "world_edge_min": 128772,
+    "world_edge_max": 176874,
+    "file_size_mb": 247.90807247161865,
+    "status": "OK"
+  },
+  {
+    "sample_id": 12,
+    "split": "train",
+    "nodes": 45689,
+    "mesh_edges": 110860,
+    "world_edge_min": 300166,
+    "world_edge_max": 468082,
+    "file_size_mb": 635.2792272567749,
+    "status": "OK"
+  },
+  {
+    "sample_id": 14,
+    "split": "train",
+    "nodes": 20379,
+    "mesh_edges": 46686,
+    "world_edge_min": 140808,
+    "world_edge_max": 209486,
+    "file_size_mb": 285.90428829193115,
+    "status": "OK"
+  },
+  {
+    "sample_id": 15,
+    "split": "train",
+    "nodes": 51775,
+    "mesh_edges": 123186,
+    "world_edge_min": 327672,
+    "world_edge_max": 477492,
+    "file_size_mb": 672.4108190536499,
+    "status": "OK"
+  },
+  {
+    "sample_id": 17,
+    "split": "train",
+    "nodes": 12784,
+    "mesh_edges": 29424,
+    "world_edge_min": 98698,
+    "world_edge_max": 140240,
+    "file_size_mb": 194.38048458099365,
+    "status": "OK"
+  },
+  {
+    "sample_id": 18,
+    "split": "train",
+    "nodes": 53677,
+    "mesh_edges": 129846,
+    "world_edge_min": 344588,
+    "world_edge_max": 462102,
+    "file_size_mb": 677.8534460067749,
+    "status": "OK"
+  },
+  {
+    "sample_id": 19,
+    "split": "train",
+    "nodes": 31768,
+    "mesh_edges": 74538,
+    "world_edge_min": 219588,
+    "world_edge_max": 322274,
+    "file_size_mb": 439.22704219818115,
+    "status": "OK"
+  },
+  {
+    "sample_id": 21,
+    "split": "train",
+    "nodes": 13127,
+    "mesh_edges": 28566,
+    "world_edge_min": 100706,
+    "world_edge_max": 140040,
+    "file_size_mb": 193.9375524520874,
+    "status": "OK"
+  },
+  {
+    "sample_id": 22,
+    "split": "train",
+    "nodes": 73958,
+    "mesh_edges": 177266,
+    "world_edge_min": 463692,
+    "world_edge_max": 702090,
+    "file_size_mb": 980.6085119247437,
+    "status": "OK"
+  },
+  {
+    "sample_id": 23,
+    "split": "train",
+    "nodes": 54741,
+    "mesh_edges": 133110,
+    "world_edge_min": 363760,
+    "world_edge_max": 595084,
+    "file_size_mb": 788.2499914169312,
+    "status": "OK"
+  },
+  {
+    "sample_id": 24,
+    "split": "train",
+    "nodes": 69786,
+    "mesh_edges": 169080,
+    "world_edge_min": 418788,
+    "world_edge_max": 580068,
+    "file_size_mb": 854.2707433700562,
+    "status": "OK"
+  },
+  {
+    "sample_id": 25,
+    "split": "train",
+    "nodes": 47632,
+    "mesh_edges": 114170,
+    "world_edge_min": 329226,
+    "world_edge_max": 486354,
+    "file_size_mb": 678.4640417098999,
+    "status": "OK"
+  },
+  {
+    "sample_id": 26,
+    "split": "train",
+    "nodes": 38780,
+    "mesh_edges": 93998,
+    "world_edge_min": 262454,
+    "world_edge_max": 414100,
+    "file_size_mb": 556.6063756942749,
+    "status": "OK"
+  },
+  {
+    "sample_id": 28,
+    "split": "train",
+    "nodes": 35339,
+    "mesh_edges": 84240,
+    "world_edge_min": 218484,
+    "world_edge_max": 315994,
+    "file_size_mb": 449.18529415130615,
+    "status": "OK"
+  },
+  {
+    "sample_id": 29,
+    "split": "train",
+    "nodes": 45108,
+    "mesh_edges": 109886,
+    "world_edge_min": 314944,
+    "world_edge_max": 487940,
+    "file_size_mb": 659.9836950302124,
+    "status": "OK"
+  },
+  {
+    "sample_id": 31,
+    "split": "train",
+    "nodes": 51566,
+    "mesh_edges": 124900,
+    "world_edge_min": 328256,
+    "world_edge_max": 496918,
+    "file_size_mb": 679.7415685653687,
+    "status": "OK"
+  },
+  {
+    "sample_id": 32,
+    "split": "train",
+    "nodes": 42912,
+    "mesh_edges": 104246,
+    "world_edge_min": 305470,
+    "world_edge_max": 473058,
+    "file_size_mb": 639.2281408309937,
+    "status": "OK"
+  },
+  {
+    "sample_id": 33,
+    "split": "train",
+    "nodes": 40048,
+    "mesh_edges": 97612,
+    "world_edge_min": 278356,
+    "world_edge_max": 398212,
+    "file_size_mb": 560.0330724716187,
+    "status": "OK"
+  },
+  {
+    "sample_id": 34,
+    "split": "train",
+    "nodes": 46342,
+    "mesh_edges": 111596,
+    "world_edge_min": 303548,
+    "world_edge_max": 479620,
+    "file_size_mb": 645.8434362411499,
+    "status": "OK"
+  },
+  {
+    "sample_id": 35,
+    "split": "train",
+    "nodes": 12171,
+    "mesh_edges": 28198,
+    "world_edge_min": 85894,
+    "world_edge_max": 130798,
+    "file_size_mb": 175.12779903411865,
+    "status": "OK"
+  },
+  {
+    "sample_id": 37,
+    "split": "train",
+    "nodes": 70298,
+    "mesh_edges": 170520,
+    "world_edge_min": 471768,
+    "world_edge_max": 739950,
+    "file_size_mb": 1002.3956212997437,
+    "status": "OK"
+  },
+  {
+    "sample_id": 38,
+    "split": "train",
+    "nodes": 17655,
+    "mesh_edges": 41580,
+    "world_edge_min": 135032,
+    "world_edge_max": 189288,
+    "file_size_mb": 264.24181270599365,
+    "status": "OK"
+  },
+  {
+    "sample_id": 39,
+    "split": "train",
+    "nodes": 47249,
+    "mesh_edges": 113700,
+    "world_edge_min": 330966,
+    "world_edge_max": 508940,
+    "file_size_mb": 692.4395055770874,
+    "status": "OK"
+  },
+  {
+    "sample_id": 42,
+    "split": "train",
+    "nodes": 20882,
+    "mesh_edges": 47322,
+    "world_edge_min": 144498,
+    "world_edge_max": 198964,
+    "file_size_mb": 284.2089147567749,
+    "status": "OK"
+  },
+  {
+    "sample_id": 43,
+    "split": "train",
+    "nodes": 33910,
+    "mesh_edges": 80724,
+    "world_edge_min": 239632,
+    "world_edge_max": 361064,
+    "file_size_mb": 491.63597774505615,
+    "status": "OK"
+  },
+  {
+    "sample_id": 44,
+    "split": "train",
+    "nodes": 74836,
+    "mesh_edges": 180612,
+    "world_edge_min": 434478,
+    "world_edge_max": 644644,
+    "file_size_mb": 918.9562902450562,
+    "status": "OK"
+  },
+  {
+    "sample_id": 45,
+    "split": "train",
+    "nodes": 79146,
+    "mesh_edges": 191580,
+    "world_edge_min": 461432,
+    "world_edge_max": 722182,
+    "file_size_mb": 1001.5314855575562,
+    "status": "OK"
+  },
+  {
+    "sample_id": 46,
+    "split": "train",
+    "nodes": 39634,
+    "mesh_edges": 94410,
+    "world_edge_min": 258054,
+    "world_edge_max": 352214,
+    "file_size_mb": 508.5281286239624,
+    "status": "OK"
+  },
+  {
+    "sample_id": 47,
+    "split": "train",
+    "nodes": 17185,
+    "mesh_edges": 39928,
+    "world_edge_min": 110500,
+    "world_edge_max": 149504,
+    "file_size_mb": 217.5763463973999,
+    "status": "OK"
+  },
+  {
+    "sample_id": 48,
+    "split": "train",
+    "nodes": 56822,
+    "mesh_edges": 136620,
+    "world_edge_min": 370134,
+    "world_edge_max": 570454,
+    "file_size_mb": 760.2760534286499,
+    "status": "OK"
+  },
+  {
+    "sample_id": 49,
+    "split": "train",
+    "nodes": 17032,
+    "mesh_edges": 38750,
+    "world_edge_min": 123816,
+    "world_edge_max": 161416,
+    "file_size_mb": 234.20311641693115,
+    "status": "OK"
+  },
+  {
+    "sample_id": 52,
+    "split": "train",
+    "nodes": 21408,
+    "mesh_edges": 47950,
+    "world_edge_min": 158606,
+    "world_edge_max": 221776,
+    "file_size_mb": 311.24474239349365,
+    "status": "OK"
+  },
+  {
+    "sample_id": 53,
+    "split": "train",
+    "nodes": 62800,
+    "mesh_edges": 153468,
+    "world_edge_min": 411358,
+    "world_edge_max": 624044,
+    "file_size_mb": 859.4038000106812,
+    "status": "OK"
+  },
+  {
+    "sample_id": 54,
+    "split": "train",
+    "nodes": 13012,
+    "mesh_edges": 29250,
+    "world_edge_min": 89314,
+    "world_edge_max": 117524,
+    "file_size_mb": 172.28002071380615,
+    "status": "OK"
+  },
+  {
+    "sample_id": 55,
+    "split": "train",
+    "nodes": 42420,
+    "mesh_edges": 98982,
+    "world_edge_min": 278104,
+    "world_edge_max": 406846,
+    "file_size_mb": 570.3369054794312,
+    "status": "OK"
+  },
+  {
+    "sample_id": 56,
+    "split": "train",
+    "nodes": 14911,
+    "mesh_edges": 32670,
+    "world_edge_min": 103698,
+    "world_edge_max": 146010,
+    "file_size_mb": 206.6414098739624,
+    "status": "OK"
+  },
+  {
+    "sample_id": 57,
+    "split": "train",
+    "nodes": 6513,
+    "mesh_edges": 13640,
+    "world_edge_min": 50536,
+    "world_edge_max": 58446,
+    "file_size_mb": 89.3730993270874,
+    "status": "OK"
+  },
+  {
+    "sample_id": 58,
+    "split": "train",
+    "nodes": 58464,
+    "mesh_edges": 141722,
+    "world_edge_min": 376026,
+    "world_edge_max": 537656,
+    "file_size_mb": 768.6190710067749,
+    "status": "OK"
+  },
+  {
+    "sample_id": 60,
+    "split": "train",
+    "nodes": 46648,
+    "mesh_edges": 111766,
+    "world_edge_min": 307052,
+    "world_edge_max": 442340,
+    "file_size_mb": 622.7171545028687,
+    "status": "OK"
+  },
+  {
+    "sample_id": 61,
+    "split": "train",
+    "nodes": 24098,
+    "mesh_edges": 56924,
+    "world_edge_min": 168120,
+    "world_edge_max": 226916,
+    "file_size_mb": 323.7220983505249,
+    "status": "OK"
+  },
+  {
+    "sample_id": 62,
+    "split": "train",
+    "nodes": 15776,
+    "mesh_edges": 36714,
+    "world_edge_min": 120742,
+    "world_edge_max": 171338,
+    "file_size_mb": 237.05272579193115,
+    "status": "OK"
+  },
+  {
+    "sample_id": 63,
+    "split": "train",
+    "nodes": 48388,
+    "mesh_edges": 116130,
+    "world_edge_min": 324370,
+    "world_edge_max": 466762,
+    "file_size_mb": 655.5006628036499,
+    "status": "OK"
+  },
+  {
+    "sample_id": 64,
+    "split": "train",
+    "nodes": 63116,
+    "mesh_edges": 155870,
+    "world_edge_min": 412948,
+    "world_edge_max": 615712,
+    "file_size_mb": 855.8297033309937,
+    "status": "OK"
+  },
+  {
+    "sample_id": 66,
+    "split": "train",
+    "nodes": 21818,
+    "mesh_edges": 52710,
+    "world_edge_min": 164028,
+    "world_edge_max": 228052,
+    "file_size_mb": 320.67491817474365,
+    "status": "OK"
+  },
+  {
+    "sample_id": 67,
+    "split": "train",
+    "nodes": 9340,
+    "mesh_edges": 19550,
+    "world_edge_min": 72336,
+    "world_edge_max": 90306,
+    "file_size_mb": 132.70336055755615,
+    "status": "OK"
+  },
+  {
+    "sample_id": 68,
+    "split": "train",
+    "nodes": 17717,
+    "mesh_edges": 40768,
+    "world_edge_min": 136860,
+    "world_edge_max": 190828,
+    "file_size_mb": 266.42723751068115,
+    "status": "OK"
+  },
+  {
+    "sample_id": 70,
+    "split": "train",
+    "nodes": 53728,
+    "mesh_edges": 129480,
+    "world_edge_min": 364738,
+    "world_edge_max": 573442,
+    "file_size_mb": 773.5997228622437,
+    "status": "OK"
+  },
+  {
+    "sample_id": 72,
+    "split": "train",
+    "nodes": 71226,
+    "mesh_edges": 175044,
+    "world_edge_min": 450928,
+    "world_edge_max": 672440,
+    "file_size_mb": 940.0186681747437,
+    "status": "OK"
+  },
+  {
+    "sample_id": 73,
+    "split": "train",
+    "nodes": 73538,
+    "mesh_edges": 177118,
+    "world_edge_min": 469532,
+    "world_edge_max": 782648,
+    "file_size_mb": 1018.6548986434937,
+    "status": "OK"
+  },
+  {
+    "sample_id": 74,
+    "split": "train",
+    "nodes": 57084,
+    "mesh_edges": 136968,
+    "world_edge_min": 334096,
+    "world_edge_max": 479738,
+    "file_size_mb": 691.3018712997437,
+    "status": "OK"
+  },
+  {
+    "sample_id": 75,
+    "split": "train",
+    "nodes": 12805,
+    "mesh_edges": 27250,
+    "world_edge_min": 88514,
+    "world_edge_max": 122676,
+    "file_size_mb": 175.0339879989624,
+    "status": "OK"
+  },
+  {
+    "sample_id": 76,
+    "split": "train",
+    "nodes": 17739,
+    "mesh_edges": 42616,
+    "world_edge_min": 130468,
+    "world_edge_max": 184036,
+    "file_size_mb": 257.0031042098999,
+    "status": "OK"
+  },
+  {
+    "sample_id": 77,
+    "split": "train",
+    "nodes": 18715,
+    "mesh_edges": 43260,
+    "world_edge_min": 131618,
+    "world_edge_max": 201682,
+    "file_size_mb": 269.87682247161865,
+    "status": "OK"
+  },
+  {
+    "sample_id": 78,
+    "split": "train",
+    "nodes": 33002,
+    "mesh_edges": 79120,
+    "world_edge_min": 228476,
+    "world_edge_max": 357002,
+    "file_size_mb": 482.1686315536499,
+    "status": "OK"
+  },
+  {
+    "sample_id": 80,
+    "split": "train",
+    "nodes": 39016,
+    "mesh_edges": 94050,
+    "world_edge_min": 271520,
+    "world_edge_max": 414532,
+    "file_size_mb": 559.3717565536499,
+    "status": "OK"
+  },
+  {
+    "sample_id": 83,
+    "split": "train",
+    "nodes": 9773,
+    "mesh_edges": 21744,
+    "world_edge_min": 71364,
+    "world_edge_max": 88558,
+    "file_size_mb": 132.2308874130249,
+    "status": "OK"
+  },
+  {
+    "sample_id": 85,
+    "split": "train",
+    "nodes": 80803,
+    "mesh_edges": 197532,
+    "world_edge_min": 514086,
+    "world_edge_max": 801910,
+    "file_size_mb": 1091.9180212020874,
+    "status": "OK"
+  },
+  {
+    "sample_id": 86,
+    "split": "train",
+    "nodes": 43578,
+    "mesh_edges": 105938,
+    "world_edge_min": 309642,
+    "world_edge_max": 447500,
+    "file_size_mb": 622.4235754013062,
+    "status": "OK"
+  },
+  {
+    "sample_id": 87,
+    "split": "train",
+    "nodes": 13914,
+    "mesh_edges": 31152,
+    "world_edge_min": 93056,
+    "world_edge_max": 137502,
+    "file_size_mb": 190.0485143661499,
+    "status": "OK"
+  },
+  {
+    "sample_id": 88,
+    "split": "train",
+    "nodes": 11011,
+    "mesh_edges": 25650,
+    "world_edge_min": 89386,
+    "world_edge_max": 114994,
+    "file_size_mb": 165.9696569442749,
+    "status": "OK"
+  },
+  {
+    "sample_id": 89,
+    "split": "train",
+    "nodes": 63517,
+    "mesh_edges": 153776,
+    "world_edge_min": 382468,
+    "world_edge_max": 543554,
+    "file_size_mb": 788.2280187606812,
+    "status": "OK"
+  },
+  {
+    "sample_id": 90,
+    "split": "train",
+    "nodes": 45974,
+    "mesh_edges": 108758,
+    "world_edge_min": 292488,
+    "world_edge_max": 424722,
+    "file_size_mb": 600.2783117294312,
+    "status": "OK"
+  },
+  {
+    "sample_id": 93,
+    "split": "train",
+    "nodes": 17492,
+    "mesh_edges": 40620,
+    "world_edge_min": 134894,
+    "world_edge_max": 191976,
+    "file_size_mb": 265.3502721786499,
+    "status": "OK"
+  },
+  {
+    "sample_id": 94,
+    "split": "train",
+    "nodes": 23429,
+    "mesh_edges": 55284,
+    "world_edge_min": 162776,
+    "world_edge_max": 243674,
+    "file_size_mb": 328.9943151473999,
+    "status": "OK"
+  },
+  {
+    "sample_id": 95,
+    "split": "train",
+    "nodes": 26329,
+    "mesh_edges": 63144,
+    "world_edge_min": 181202,
+    "world_edge_max": 259948,
+    "file_size_mb": 363.9454870223999,
+    "status": "OK"
+  },
+  {
+    "sample_id": 96,
+    "split": "train",
+    "nodes": 67696,
+    "mesh_edges": 164528,
+    "world_edge_min": 397118,
+    "world_edge_max": 566568,
+    "file_size_mb": 823.1505041122437,
+    "status": "OK"
+  },
+  {
+    "sample_id": 97,
+    "split": "train",
+    "nodes": 71972,
+    "mesh_edges": 172026,
+    "world_edge_min": 437516,
+    "world_edge_max": 671100,
+    "file_size_mb": 935.4103918075562,
+    "status": "OK"
+  },
+  {
+    "sample_id": 98,
+    "split": "train",
+    "nodes": 25803,
+    "mesh_edges": 61484,
+    "world_edge_min": 187608,
+    "world_edge_max": 259296,
+    "file_size_mb": 368.00401973724365,
+    "status": "OK"
+  },
+  {
+    "sample_id": 99,
+    "split": "train",
+    "nodes": 47645,
+    "mesh_edges": 113376,
+    "world_edge_min": 312514,
+    "world_edge_max": 497382,
+    "file_size_mb": 673.6351842880249,
+    "status": "OK"
+  },
+  {
+    "sample_id": 100,
+    "split": "train",
+    "nodes": 19583,
+    "mesh_edges": 44676,
+    "world_edge_min": 133116,
+    "world_edge_max": 170404,
+    "file_size_mb": 256.62694454193115,
+    "status": "OK"
+  },
+  {
+    "sample_id": 101,
+    "split": "train",
+    "nodes": 24053,
+    "mesh_edges": 54792,
+    "world_edge_min": 156464,
+    "world_edge_max": 220378,
+    "file_size_mb": 316.00414180755615,
+    "status": "OK"
+  },
+  {
+    "sample_id": 102,
+    "split": "train",
+    "nodes": 22724,
+    "mesh_edges": 53352,
+    "world_edge_min": 166652,
+    "world_edge_max": 232996,
+    "file_size_mb": 328.5903844833374,
+    "status": "OK"
+  },
+  {
+    "sample_id": 103,
+    "split": "train",
+    "nodes": 9640,
+    "mesh_edges": 22218,
+    "world_edge_min": 74748,
+    "world_edge_max": 103322,
+    "file_size_mb": 144.48692989349365,
+    "status": "OK"
+  },
+  {
+    "sample_id": 105,
+    "split": "train",
+    "nodes": 11628,
+    "mesh_edges": 26444,
+    "world_edge_min": 80922,
+    "world_edge_max": 115036,
+    "file_size_mb": 161.02660274505615,
+    "status": "OK"
+  },
+  {
+    "sample_id": 106,
+    "split": "train",
+    "nodes": 60332,
+    "mesh_edges": 144456,
+    "world_edge_min": 362530,
+    "world_edge_max": 563818,
+    "file_size_mb": 783.1882238388062,
+    "status": "OK"
+  },
+  {
+    "sample_id": 107,
+    "split": "train",
+    "nodes": 47350,
+    "mesh_edges": 113376,
+    "world_edge_min": 302064,
+    "world_edge_max": 451398,
+    "file_size_mb": 626.7203283309937,
+    "status": "OK"
+  },
+  {
+    "sample_id": 108,
+    "split": "train",
+    "nodes": 38080,
+    "mesh_edges": 90558,
+    "world_edge_min": 239916,
+    "world_edge_max": 330652,
+    "file_size_mb": 479.79234981536865,
+    "status": "OK"
+  },
+  {
+    "sample_id": 109,
+    "split": "train",
+    "nodes": 13259,
+    "mesh_edges": 31590,
+    "world_edge_min": 101994,
+    "world_edge_max": 135686,
+    "file_size_mb": 193.72948360443115,
+    "status": "OK"
+  },
+  {
+    "sample_id": 110,
+    "split": "train",
+    "nodes": 10322,
+    "mesh_edges": 22100,
+    "world_edge_min": 78818,
+    "world_edge_max": 99170,
+    "file_size_mb": 145.77648067474365,
+    "status": "OK"
+  },
+  {
+    "sample_id": 111,
+    "split": "train",
+    "nodes": 31923,
+    "mesh_edges": 76830,
+    "world_edge_min": 214674,
+    "world_edge_max": 341890,
+    "file_size_mb": 448.9695348739624,
+    "status": "OK"
+  },
+  {
+    "sample_id": 112,
+    "split": "train",
+    "nodes": 39520,
+    "mesh_edges": 94072,
+    "world_edge_min": 238054,
+    "world_edge_max": 332978,
+    "file_size_mb": 485.47521114349365,
+    "status": "OK"
+  },
+  {
+    "sample_id": 115,
+    "split": "train",
+    "nodes": 54215,
+    "mesh_edges": 130100,
+    "world_edge_min": 327170,
+    "world_edge_max": 484242,
+    "file_size_mb": 683.3976354598999,
+    "status": "OK"
+  },
+  {
+    "sample_id": 116,
+    "split": "train",
+    "nodes": 7664,
+    "mesh_edges": 16040,
+    "world_edge_min": 53300,
+    "world_edge_max": 63808,
+    "file_size_mb": 97.7715368270874,
+    "status": "OK"
+  },
+  {
+    "sample_id": 117,
+    "split": "train",
+    "nodes": 6496,
+    "mesh_edges": 13718,
+    "world_edge_min": 49824,
+    "world_edge_max": 56404,
+    "file_size_mb": 87.7111120223999,
+    "status": "OK"
+  },
+  {
+    "sample_id": 118,
+    "split": "train",
+    "nodes": 9219,
+    "mesh_edges": 19756,
+    "world_edge_min": 65238,
+    "world_edge_max": 82536,
+    "file_size_mb": 122.27233028411865,
+    "status": "OK"
+  },
+  {
+    "sample_id": 121,
+    "split": "train",
+    "nodes": 83393,
+    "mesh_edges": 205964,
+    "world_edge_min": 537920,
+    "world_edge_max": 814210,
+    "file_size_mb": 1126.2225255966187,
+    "status": "OK"
+  },
+  {
+    "sample_id": 122,
+    "split": "train",
+    "nodes": 43005,
+    "mesh_edges": 102240,
+    "world_edge_min": 261104,
+    "world_edge_max": 370242,
+    "file_size_mb": 533.9738073348999,
+    "status": "OK"
+  },
+  {
+    "sample_id": 123,
+    "split": "train",
+    "nodes": 58271,
+    "mesh_edges": 140940,
+    "world_edge_min": 393992,
+    "world_edge_max": 608106,
+    "file_size_mb": 825.4347448348999,
+    "status": "OK"
+  },
+  {
+    "sample_id": 124,
+    "split": "train",
+    "nodes": 59436,
+    "mesh_edges": 142668,
+    "world_edge_min": 357248,
+    "world_edge_max": 511504,
+    "file_size_mb": 738.1445226669312,
+    "status": "OK"
+  },
+  {
+    "sample_id": 125,
+    "split": "train",
+    "nodes": 25677,
+    "mesh_edges": 61110,
+    "world_edge_min": 184322,
+    "world_edge_max": 287384,
+    "file_size_mb": 384.3210973739624,
+    "status": "OK"
+  },
+  {
+    "sample_id": 127,
+    "split": "train",
+    "nodes": 44592,
+    "mesh_edges": 108450,
+    "world_edge_min": 302928,
+    "world_edge_max": 489242,
+    "file_size_mb": 649.6146764755249,
+    "status": "OK"
+  },
+  {
+    "sample_id": 128,
+    "split": "train",
+    "nodes": 83929,
+    "mesh_edges": 208278,
+    "world_edge_min": 545012,
+    "world_edge_max": 862050,
+    "file_size_mb": 1166.5361852645874,
+    "status": "OK"
+  },
+  {
+    "sample_id": 129,
+    "split": "train",
+    "nodes": 66063,
+    "mesh_edges": 162736,
+    "world_edge_min": 429100,
+    "world_edge_max": 649832,
+    "file_size_mb": 900.0855016708374,
+    "status": "OK"
+  },
+  {
+    "sample_id": 130,
+    "split": "train",
+    "nodes": 35053,
+    "mesh_edges": 84420,
+    "world_edge_min": 237962,
+    "world_edge_max": 351558,
+    "file_size_mb": 487.78600215911865,
+    "status": "OK"
+  },
+  {
+    "sample_id": 131,
+    "split": "train",
+    "nodes": 11786,
+    "mesh_edges": 27148,
+    "world_edge_min": 76692,
+    "world_edge_max": 104192,
+    "file_size_mb": 151.0623083114624,
+    "status": "OK"
+  },
+  {
+    "sample_id": 132,
+    "split": "train",
+    "nodes": 53465,
+    "mesh_edges": 129700,
+    "world_edge_min": 341730,
+    "world_edge_max": 552182,
+    "file_size_mb": 736.6305456161499,
+    "status": "OK"
+  },
+  {
+    "sample_id": 133,
+    "split": "train",
+    "nodes": 12075,
+    "mesh_edges": 28450,
+    "world_edge_min": 95956,
+    "world_edge_max": 129886,
+    "file_size_mb": 183.08885860443115,
+    "status": "OK"
+  },
+  {
+    "sample_id": 134,
+    "split": "train",
+    "nodes": 29462,
+    "mesh_edges": 69192,
+    "world_edge_min": 187004,
+    "world_edge_max": 296794,
+    "file_size_mb": 404.54454708099365,
+    "status": "OK"
+  },
+  {
+    "sample_id": 135,
+    "split": "train",
+    "nodes": 21507,
+    "mesh_edges": 50406,
+    "world_edge_min": 151912,
+    "world_edge_max": 243794,
+    "file_size_mb": 321.8054723739624,
+    "status": "OK"
+  },
+  {
+    "sample_id": 136,
+    "split": "train",
+    "nodes": 82296,
+    "mesh_edges": 204246,
+    "world_edge_min": 533646,
+    "world_edge_max": 822248,
+    "file_size_mb": 1126.1909093856812,
+    "status": "OK"
+  },
+  {
+    "sample_id": 137,
+    "split": "train",
+    "nodes": 7739,
+    "mesh_edges": 16454,
+    "world_edge_min": 55942,
+    "world_edge_max": 70360,
+    "file_size_mb": 104.37999629974365,
+    "status": "OK"
+  },
+  {
+    "sample_id": 138,
+    "split": "train",
+    "nodes": 72164,
+    "mesh_edges": 180682,
+    "world_edge_min": 456674,
+    "world_edge_max": 645702,
+    "file_size_mb": 930.5306310653687,
+    "status": "OK"
+  },
+  {
+    "sample_id": 139,
+    "split": "train",
+    "nodes": 31608,
+    "mesh_edges": 76178,
+    "world_edge_min": 231262,
+    "world_edge_max": 342340,
+    "file_size_mb": 467.85924434661865,
+    "status": "OK"
+  },
+  {
+    "sample_id": 140,
+    "split": "train",
+    "nodes": 20653,
+    "mesh_edges": 48192,
+    "world_edge_min": 151566,
+    "world_edge_max": 226190,
+    "file_size_mb": 307.3186559677124,
+    "status": "OK"
+  },
+  {
+    "sample_id": 141,
+    "split": "train",
+    "nodes": 66145,
+    "mesh_edges": 159390,
+    "world_edge_min": 406616,
+    "world_edge_max": 594162,
+    "file_size_mb": 847.2939367294312,
+    "status": "OK"
+  },
+  {
+    "sample_id": 142,
+    "split": "train",
+    "nodes": 26477,
+    "mesh_edges": 60754,
+    "world_edge_min": 178902,
+    "world_edge_max": 251864,
+    "file_size_mb": 357.3726110458374,
+    "status": "OK"
+  },
+  {
+    "sample_id": 144,
+    "split": "train",
+    "nodes": 69643,
+    "mesh_edges": 170404,
+    "world_edge_min": 412872,
+    "world_edge_max": 573884,
+    "file_size_mb": 842.5651159286499,
+    "status": "OK"
+  },
+  {
+    "sample_id": 145,
+    "split": "train",
+    "nodes": 54389,
+    "mesh_edges": 129426,
+    "world_edge_min": 364476,
+    "world_edge_max": 554754,
+    "file_size_mb": 765.7247838973999,
+    "status": "OK"
+  },
+  {
+    "sample_id": 146,
+    "split": "train",
+    "nodes": 54764,
+    "mesh_edges": 130662,
+    "world_edge_min": 353034,
+    "world_edge_max": 521450,
+    "file_size_mb": 731.5813512802124,
+    "status": "OK"
+  },
+  {
+    "sample_id": 147,
+    "split": "train",
+    "nodes": 31856,
+    "mesh_edges": 73778,
+    "world_edge_min": 212084,
+    "world_edge_max": 351196,
+    "file_size_mb": 454.2168493270874,
+    "status": "OK"
+  },
+  {
+    "sample_id": 148,
+    "split": "train",
+    "nodes": 7045,
+    "mesh_edges": 16150,
+    "world_edge_min": 56024,
+    "world_edge_max": 71246,
+    "file_size_mb": 104.04332637786865,
+    "status": "OK"
+  },
+  {
+    "sample_id": 13,
+    "split": "val",
+    "nodes": 49185,
+    "mesh_edges": 117700,
+    "world_edge_min": 304732,
+    "world_edge_max": 425338,
+    "file_size_mb": 615.2880086898804,
+    "status": "OK"
+  },
+  {
+    "sample_id": 30,
+    "split": "val",
+    "nodes": 15495,
+    "mesh_edges": 36060,
+    "world_edge_min": 122560,
+    "world_edge_max": 162110,
+    "file_size_mb": 231.84873867034912,
+    "status": "OK"
+  },
+  {
+    "sample_id": 36,
+    "split": "val",
+    "nodes": 6942,
+    "mesh_edges": 13960,
+    "world_edge_min": 48218,
+    "world_edge_max": 56410,
+    "file_size_mb": 88.06278896331787,
+    "status": "OK"
+  },
+  {
+    "sample_id": 51,
+    "split": "val",
+    "nodes": 48672,
+    "mesh_edges": 117216,
+    "world_edge_min": 283648,
+    "world_edge_max": 390040,
+    "file_size_mb": 576.3645467758179,
+    "status": "OK"
+  },
+  {
+    "sample_id": 59,
+    "split": "val",
+    "nodes": 32856,
+    "mesh_edges": 78390,
+    "world_edge_min": 214766,
+    "world_edge_max": 346870,
+    "file_size_mb": 457.66154384613037,
+    "status": "OK"
+  },
+  {
+    "sample_id": 65,
+    "split": "val",
+    "nodes": 68395,
+    "mesh_edges": 166768,
+    "world_edge_min": 430518,
+    "world_edge_max": 724724,
+    "file_size_mb": 935.4749593734741,
+    "status": "OK"
+  },
+  {
+    "sample_id": 82,
+    "split": "val",
+    "nodes": 46232,
+    "mesh_edges": 112700,
+    "world_edge_min": 308114,
+    "world_edge_max": 476804,
+    "file_size_mb": 651.4982137680054,
+    "status": "OK"
+  },
+  {
+    "sample_id": 91,
+    "split": "val",
+    "nodes": 30328,
+    "mesh_edges": 71440,
+    "world_edge_min": 219894,
+    "world_edge_max": 330316,
+    "file_size_mb": 450.14933681488037,
+    "status": "OK"
+  },
+  {
+    "sample_id": 92,
+    "split": "val",
+    "nodes": 65499,
+    "mesh_edges": 156750,
+    "world_edge_min": 404754,
+    "world_edge_max": 599922,
+    "file_size_mb": 847.9795980453491,
+    "status": "OK"
+  },
+  {
+    "sample_id": 104,
+    "split": "val",
+    "nodes": 65473,
+    "mesh_edges": 160626,
+    "world_edge_min": 438926,
+    "world_edge_max": 670786,
+    "file_size_mb": 919.9739828109741,
+    "status": "OK"
+  },
+  {
+    "sample_id": 113,
+    "split": "val",
+    "nodes": 29476,
+    "mesh_edges": 68634,
+    "world_edge_min": 204866,
+    "world_edge_max": 283058,
+    "file_size_mb": 402.51725673675537,
+    "status": "OK"
+  },
+  {
+    "sample_id": 120,
+    "split": "val",
+    "nodes": 11782,
+    "mesh_edges": 25850,
+    "world_edge_min": 86116,
+    "world_edge_max": 116704,
+    "file_size_mb": 165.44419765472412,
+    "status": "OK"
+  },
+  {
+    "sample_id": 126,
+    "split": "val",
+    "nodes": 17639,
+    "mesh_edges": 42222,
+    "world_edge_min": 128942,
+    "world_edge_max": 178188,
+    "file_size_mb": 252.62272548675537,
+    "status": "OK"
+  },
+  {
+    "sample_id": 143,
+    "split": "val",
+    "nodes": 37540,
+    "mesh_edges": 89496,
+    "world_edge_min": 249292,
+    "world_edge_max": 376210,
+    "file_size_mb": 510.2336263656616,
+    "status": "OK"
+  },
+  {
+    "sample_id": 149,
+    "split": "val",
+    "nodes": 55804,
+    "mesh_edges": 138414,
+    "world_edge_min": 369538,
+    "world_edge_max": 547788,
+    "file_size_mb": 762.4494466781616,
+    "status": "OK"
+  },
+  {
+    "sample_id": 0,
+    "split": "test",
+    "nodes": 42034,
+    "mesh_edges": 100486,
+    "world_edge_min": 291474,
+    "world_edge_max": 463848,
+    "file_size_mb": 620.0672483444214,
+    "status": "OK"
+  },
+  {
+    "sample_id": 10,
+    "split": "test",
+    "nodes": 74810,
+    "mesh_edges": 183480,
+    "world_edge_min": 463386,
+    "world_edge_max": 672924,
+    "file_size_mb": 948.9293699264526,
+    "status": "OK"
+  },
+  {
+    "sample_id": 16,
+    "split": "test",
+    "nodes": 11030,
+    "mesh_edges": 23394,
+    "world_edge_min": 75852,
+    "world_edge_max": 109120,
+    "file_size_mb": 152.3889036178589,
+    "status": "OK"
+  },
+  {
+    "sample_id": 20,
+    "split": "test",
+    "nodes": 67699,
+    "mesh_edges": 163908,
+    "world_edge_min": 448774,
+    "world_edge_max": 705566,
+    "file_size_mb": 955.1265134811401,
+    "status": "OK"
+  },
+  {
+    "sample_id": 27,
+    "split": "test",
+    "nodes": 20782,
+    "mesh_edges": 48448,
+    "world_edge_min": 130432,
+    "world_edge_max": 172114,
+    "file_size_mb": 256.19975566864014,
+    "status": "OK"
+  },
+  {
+    "sample_id": 40,
+    "split": "test",
+    "nodes": 70947,
+    "mesh_edges": 170982,
+    "world_edge_min": 443342,
+    "world_edge_max": 635394,
+    "file_size_mb": 910.5194578170776,
+    "status": "OK"
+  },
+  {
+    "sample_id": 41,
+    "split": "test",
+    "nodes": 41150,
+    "mesh_edges": 96750,
+    "world_edge_min": 270898,
+    "world_edge_max": 426008,
+    "file_size_mb": 572.8367795944214,
+    "status": "OK"
+  },
+  {
+    "sample_id": 50,
+    "split": "test",
+    "nodes": 20353,
+    "mesh_edges": 47850,
+    "world_edge_min": 152820,
+    "world_edge_max": 223554,
+    "file_size_mb": 305.91606426239014,
+    "status": "OK"
+  },
+  {
+    "sample_id": 69,
+    "split": "test",
+    "nodes": 58833,
+    "mesh_edges": 142792,
+    "world_edge_min": 355330,
+    "world_edge_max": 494336,
+    "file_size_mb": 723.0306882858276,
+    "status": "OK"
+  },
+  {
+    "sample_id": 71,
+    "split": "test",
+    "nodes": 13943,
+    "mesh_edges": 32760,
+    "world_edge_min": 110306,
+    "world_edge_max": 142264,
+    "file_size_mb": 205.5283079147339,
+    "status": "OK"
+  },
+  {
+    "sample_id": 79,
+    "split": "test",
+    "nodes": 69771,
+    "mesh_edges": 167466,
+    "world_edge_min": 438026,
+    "world_edge_max": 662050,
+    "file_size_mb": 924.9692258834839,
+    "status": "OK"
+  },
+  {
+    "sample_id": 81,
+    "split": "test",
+    "nodes": 38930,
+    "mesh_edges": 93016,
+    "world_edge_min": 264994,
+    "world_edge_max": 414906,
+    "file_size_mb": 549.0949583053589,
+    "status": "OK"
+  },
+  {
+    "sample_id": 84,
+    "split": "test",
+    "nodes": 14572,
+    "mesh_edges": 32916,
+    "world_edge_min": 92204,
+    "world_edge_max": 126252,
+    "file_size_mb": 183.39982891082764,
+    "status": "OK"
+  },
+  {
+    "sample_id": 114,
+    "split": "test",
+    "nodes": 46223,
+    "mesh_edges": 109756,
+    "world_edge_min": 284474,
+    "world_edge_max": 426160,
+    "file_size_mb": 593.9907102584839,
+    "status": "OK"
+  },
+  {
+    "sample_id": 119,
+    "split": "test",
+    "nodes": 8813,
+    "mesh_edges": 18262,
+    "world_edge_min": 69140,
+    "world_edge_max": 84740,
+    "file_size_mb": 125.35728740692139,
+    "status": "OK"
+  }
+]

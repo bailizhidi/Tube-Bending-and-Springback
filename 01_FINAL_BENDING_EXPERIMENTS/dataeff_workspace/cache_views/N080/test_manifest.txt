@@ -1,0 +1,15 @@
+sample_0000.pt
+sample_0010.pt
+sample_0016.pt
+sample_0020.pt
+sample_0027.pt
+sample_0040.pt
+sample_0041.pt
+sample_0050.pt
+sample_0069.pt
+sample_0071.pt
+sample_0079.pt
+sample_0081.pt
+sample_0084.pt
+sample_0114.pt
+sample_0119.pt

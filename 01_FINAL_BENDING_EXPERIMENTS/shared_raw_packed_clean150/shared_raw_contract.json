@@ -1,0 +1,15 @@
+{
+  "format_version": 4,
+  "feature_contract": "ANARESID_X10_shared_raw_packed_v2",
+  "cache_signature": "7f78d29987c5c7938104",
+  "num_time_steps": 181,
+  "world_edge_radius": 2.0,
+  "split_counts": {
+    "train": 120,
+    "val": 15,
+    "test": 15
+  },
+  "static_node_features": "static_x3 only",
+  "static_edge_features": "mesh_edge_attr_static_raw",
+  "normalization_baked_into_cache": false
+}
