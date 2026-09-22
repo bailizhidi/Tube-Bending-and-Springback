@@ -1,4 +1,0 @@
-numpy
-pyyaml
-tqdm
-tensorboard
